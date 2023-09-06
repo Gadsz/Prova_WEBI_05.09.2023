@@ -16,11 +16,8 @@ frm.addEventListener("submit", (e) => {
 
 //Ordenação dos números em forma crescente
 
-array.sort(function(a, b){
-    return a > b;
+array.sort(function(){
+    return 0;
 });
-
-
-
 
     });
