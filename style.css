@@ -1,0 +1,25 @@
+/* Largura do container de input */
+div .container-fluid{
+    width: 35%;
+}
+
+/* Corpo centralizado de todo o texto */
+
+style
+.container-fluid {
+width: 100vw;
+height: 100vh;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.box {
+width: 300px;
+height: 300px;
+background: #fff;
+}
+body {
+margin: 0px;
+}
